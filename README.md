@@ -27,11 +27,3 @@ github-activity harshgharsandiya
 npm install
 npm link
 ```
-
-## **Git Commands (for your commits)**
-
-```bash
-git add .
-git commit -m "feat: initial GitHub Activity CLI"
-git push
-```
