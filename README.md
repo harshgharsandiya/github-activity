@@ -2,6 +2,10 @@
 
 A simple Node.js CLI tool that fetches and displays the recent GitHub activity of any user — using only core Node modules.
 
+## **Project Page**
+
+👉 **[https://github.com/harshgharsandiya/github-activity-cli](https://github.com/harshgharsandiya/github-activity-cli)**
+
 ## **Usage**
 
 ```bash
