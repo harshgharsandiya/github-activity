@@ -4,7 +4,7 @@ A simple Node.js CLI tool that fetches and displays the recent GitHub activity o
 
 ## **Project Page**
 
-👉 **[https://github.com/harshgharsandiya/github-activity-cli](https://github.com/harshgharsandiya/github-activity-cli)**
+👉 **[https://roadmap.sh/projects/github-user-activity](https://roadmap.sh/projects/github-user-activity)**
 
 ## **Usage**
 
